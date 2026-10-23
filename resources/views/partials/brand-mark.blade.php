@@ -1,0 +1,1 @@
+<svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="11" fill="#12142b"/><circle cx="14" cy="14" r="6" fill="#00aeef"/><circle cx="27" cy="14" r="6" fill="#ec008c" style="mix-blend-mode:screen"/><circle cx="14" cy="27" r="6" fill="#ffd400"/><circle cx="27" cy="27" r="6" fill="#fff"/></svg>
